@@ -6,4 +6,7 @@ DSA-Using-C/
 │   ├── doubly_linked_list.c
 │   └── doubly_circular_linked_list.c
 │
+├── Stack/
+│   ├── Stack_using_array.c
+│
 └── README.md
