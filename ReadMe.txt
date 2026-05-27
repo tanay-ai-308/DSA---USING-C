@@ -8,5 +8,6 @@ DSA-Using-C/
 │
 ├── Stack/
 │   ├── Stack_using_array.c
+│   └── Stack_using_linked_list.c
 │
 └── README.md
