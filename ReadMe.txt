@@ -10,4 +10,8 @@ DSA-Using-C/
 │   ├── Stack_using_array.c
 │   └── Stack_using_linked_list.c
 │
+├── Queue/
+│   ├── Queue_using_array.c
+│   └── Queue_using_linked_list.c
+│
 └── README.md
