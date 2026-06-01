@@ -12,6 +12,7 @@ DSA-Using-C/
 │
 ├── Queue/
 │   ├── Queue_using_array.c
-│   └── Queue_using_linked_list.c
+│   ├── Queue_using_linked_list.c
+│   └── Circular_queue.c
 │
 └── README.md
