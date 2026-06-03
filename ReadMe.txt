@@ -14,6 +14,7 @@ DSA-Using-C/
 │   ├── Queue_using_array.c
 │   ├── Queue_using_linked_list.c
 │   ├── Circular_queue.c
-│   └── Double_ended_queue.c
+│   ├── Double_ended_queue.c
+│   └── Priority_queue.c
 │
 └── README.md
