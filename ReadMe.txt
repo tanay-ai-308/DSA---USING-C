@@ -7,8 +7,11 @@ DSA-Using-C/
 │   └── doubly_circular_linked_list.c
 │
 ├── Stack/
-│   ├── Stack_using_array.c
-│   └── Stack_using_linked_list.c
+│ │  ├── Stack_using_array.c
+│ │  └── Stack_using_linked_list.c
+│ │
+│ ├── Polish Notations(infix to postfix and postfix evaluation)
+│ └── Bracket Validation
 │
 ├── Queue/
 │   ├── Queue_using_array.c
