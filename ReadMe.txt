@@ -20,4 +20,7 @@ DSA-Using-C/
 │   ├── Double_ended_queue.c
 │   └── Priority_queue.c
 │
+├── Tree/
+│   └── Binary_search_tree.c
+│
 └── README.md
