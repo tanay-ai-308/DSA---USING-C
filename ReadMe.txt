@@ -23,4 +23,12 @@ DSA-Using-C/
 ├── Tree/
 │   └── Binary_search_tree.c
 │
+├── Graph/
+│   ├── Undirected_Graph_using_array.c
+│   ├── Undirected_Graph_using_Linkes_list.c
+│   ├── Directed_Graph_using_array.c
+│   ├── Directed_Graph_using_Linkes_list.c
+│   ├── Weight_Graph_using_array.c
+│   └── Weighted_Graph_using_Linkes_list.c
+│
 └── README.md
